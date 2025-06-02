@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin Horáček</h1>
 <h3 align="center">IP Specialist and hobby programmer from Czechia</h3>
 
-- 🔭 I’m currently working on [Meshtastic scripts](https://github.com/martinhocz/meshtastic)
+- 🔭 I’m currently working on [Felyro](https://github.com/martinhocz/Felyro)
 
 - 🌱 I’m currently learning **Network security, python**
 
